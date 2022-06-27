@@ -18,7 +18,7 @@ public class User
     public string LastName {get; set; }
 
     [Required(ErrorMessage = "Username is required")]
-    [MinLength(3, ErrorMessage ="Please make username atleast 3 characters")
+    [MinLength(3, ErrorMessage ="Please make username atleast 3 characters")]
     [Display(Name ="UserName")]
     public string UserName {get; set; }
 
