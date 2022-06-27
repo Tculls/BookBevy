@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tanne\\OneDrive\\Desktop\\CodingDojoFolder\\BootcampClass\\BookBevy\\BookBevy.csproj": {}
+    "C:\\Users\\JDBonz\\Desktop\\CDojo_FT\\Csharp-Projects\\BookBevy\\BookBevy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tanne\\OneDrive\\Desktop\\CodingDojoFolder\\BootcampClass\\BookBevy\\BookBevy.csproj": {
+    "C:\\Users\\JDBonz\\Desktop\\CDojo_FT\\Csharp-Projects\\BookBevy\\BookBevy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tanne\\OneDrive\\Desktop\\CodingDojoFolder\\BootcampClass\\BookBevy\\BookBevy.csproj",
+        "projectUniqueName": "C:\\Users\\JDBonz\\Desktop\\CDojo_FT\\Csharp-Projects\\BookBevy\\BookBevy.csproj",
         "projectName": "BookBevy",
-        "projectPath": "C:\\Users\\tanne\\OneDrive\\Desktop\\CodingDojoFolder\\BootcampClass\\BookBevy\\BookBevy.csproj",
-        "packagesPath": "C:\\Users\\tanne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tanne\\OneDrive\\Desktop\\CodingDojoFolder\\BootcampClass\\BookBevy\\obj\\",
+        "projectPath": "C:\\Users\\JDBonz\\Desktop\\CDojo_FT\\Csharp-Projects\\BookBevy\\BookBevy.csproj",
+        "packagesPath": "C:\\Users\\JDBonz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JDBonz\\Desktop\\CDojo_FT\\Csharp-Projects\\BookBevy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tanne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\JDBonz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
